@@ -60,6 +60,16 @@ Strengthened understanding of how networks, systems, and security careers are st
 
 ---
 
+## Walkthroughs & Writeups
+Real-world practice and analysis of vulnerable machines and challenges.
+
+- **Linux Privilege Escalation – TryHackMe**  
+  Explored misconfigurations like writable `/etc/passwd`, abused SUID binaries, and leveraged `sudo` misuses to escalate privileges on a Linux machine. 
+  
+  🔗 [Read the full writeup](writeups/linux-privilege-escalation/README.md)
+
+---
+
 ## Skills & Tools
 
 ### Tools
