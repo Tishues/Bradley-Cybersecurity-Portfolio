@@ -25,9 +25,12 @@ Learned to identify and exploit common privilege escalation paths on Linux syste
 ### Pentesting Fundamentals
 Built a strong foundation in offensive security concepts and methodologies.
 **Key rooms:**
-- Offensive Security Introduction* 
-- Pentesting Fundamentals  
+- Offensive Security Introduction – Covered core concepts of ethical hacking, attack phases, and the offensive mindset.
+- Pentesting Fundamentals – Learned the stages of penetration testing and how to approach real-world security assessments.
 - Vulnerabilities 101 – Learned to identify and categorize common vulnerabilities in real systems.
+- How Websites Work – Learned how websites are structured and served, including frontend/backend basics.
+- Putting it All Together – Connected web components (HTTP, DNS, servers, databases) into a full workflow.
+- SQL Injection – Practiced detecting and exploiting SQL injection flaws in login forms and data queries.
 
 ### Foundational Knowledge
 Strengthened understanding of how networks, systems, and security careers are structured.
