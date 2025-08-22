@@ -15,6 +15,9 @@ Developed hands-on experience gathering intelligence and mapping targets using b
 - Passive Reconnaissance – Practiced gathering OSINT and DNS data without touching the target.
 - Active Reconnaissance – Used Nmap, Gobuster, and enumeration scripts to discover services and directories.
 - DNS in Detail**, **HTTP in Detail – Deep-dived into common protocols used during recon.
+- Walking An Application – Learned how to explore and map out how a website functions, including pages, inputs, and backend behavior.
+- Content Discovery – Uncovered hidden pages, files, and folders that could expose sensitive information.
+- Subdomain Enumeration – Identified additional subdomains like test sites or admin panels that could be exploited.
 
 ### Privilege Escalation
 Learned to identify and exploit common privilege escalation paths on Linux systems and introductory AD environments.
