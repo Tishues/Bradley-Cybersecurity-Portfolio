@@ -32,6 +32,7 @@ I’ve completed the **Web Fundamentals Path** on TryHackMe, covering both front
 | [![OWASP Top 10](/images/badges/thm-owasp-top-10.png)](/images/badges/thm-owasp-top-10.png) | **OWASP Top 10 (2021)** — Completed full module | XSS, SQLi, IDOR, RCE — real-world relevance for clients |
 | [![Software Security](/images/badges/thm-software-security.png)](/images/badges/thm-software-security.png) | **Software Security** — OWASP API Security Top 10 | BOLA, broken auth, excessive data exposure |
 | [![Sword Apprentice](/images/badges/thm-sword-apprentice.png)](/images/badges/thm-sword-apprentice.png) | **Sword Apprentice** — SQLMap module | Automated SQL injection detection and data exfiltration |
+| [![OhSINT](/images/badges/thm-ohsint.png)](/images/badges/thm-ohsint.png) | **OhSINT** — Open Source Intel Challenge | Discovered user credentials, email and location from a single desktop image |
 
 ---
 
