@@ -1,133 +1,109 @@
 # Bradley-Cybersecurity-Portfolio
 ## Freelance Web Application Penetration Tester
 
-Hi, I’m Brad — an aspiring **penetration tester** with a strong foundation in **Python programming** and a growing track record in **hands-on security labs**. This portfolio showcases my practical projects, learning journey, and the skills I bring to real-world security challenges.
+Hi, I’m Bradley — a junior **penetration tester** with a strong foundation in **Python programming** and a growing track record in **hands-on security labs**. This portfolio showcases my practical projects, learning journey, and the skills I bring to real-world security challenges.
+
+---
+## 🎖️ TryHackMe — Badges, Certificate & Hands-On Labs
+
+Hands-on skills proven through TryHackMe labs, modules, and a completed learning path. Click a badge to verify on TryHackMe or view the certificate.
+
+> 🔗 [View My TryHackMe Profile](https://tryhackme.com/p/Tishues)
+
+### 📜 Certificate of Completion
+
+I’ve completed the **Web Fundamentals Path** on TryHackMe, covering both frontend/backend web tech and common vulnerabilities.
+
+**🔗 View Certificate:** [Web Fundamentals Certificate (PDF)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YGQINHZ2IA.pdf)  
+**Issued:** September 2025 
+
+![Certificate Thumbnail](/images/certificates/tryhackme-certifications/THM-WF-CERT-THUMBNAIL.png)
+
+### ✅ Verified Badges
+
+| Badge | What It Means | Value |
+|---|---|---|
+| [![Burp'ed](/images/badges/thm-burped.png)](https://tryhackme.com/p/Tishues) | **Burp'ed** — Completed all Burp Suite rooms | Manual web request manipulation, API fuzzing, auth/session testing |
+| [![Webbed](/images/badges/thm-webbed.png)](https://tryhackme.com/p/Tishues) | **Webbed** — Understanding how the web works | HTTP, headers, cookies, and backend/frontend behavior |
+| [![World Wide Web](/images/badges/thm-world-wide-web.png)](https://tryhackme.com/p/Tishues) | **World Wide Web** — Completed "How the Web Works" module | Foundation for protocol-level vulnerability analysis |
+| [![Intro to Web Hacking](/images/badges/thm-intro-web-hacking.png)](https://tryhackme.com/p/Tishues) | **Intro to Web Hacking** — Core web hacking concepts | OWASP-style vulnerabilities and discovery techniques |
+| [![Networking Nerd](/images/badges/thm-networking-nerd.png)](https://tryhackme.com/p/Tishues) | **Networking Nerd** — Completed Network Fundamentals | OSI model, TCP/IP, NAT, DNS — supports recon and traffic analysis |
+| [![Pentesting Principles](/images/badges/thm-pentesting-principles.png)](https://tryhackme.com/p/Tishues) | **Pentesting Principles** — Intro to Pentesting | Engagement flow: recon → exploit → report |
+| [![OWASP Top 10](/images/badges/thm-owasp-top-10.png)](https://tryhackme.com/p/Tishues) | **OWASP Top 10 (2021)** — Completed full module | XSS, SQLi, IDOR, RCE — real-world relevance for clients |
+| [![Software Security](/images/badges/thm-software-security.png)](https://tryhackme.com/p/Tishues) | **Software Security** — OWASP API Security Top 10 | BOLA, broken auth, excessive data exposure |
+| [![Sword Apprentice](/images/badges/thm-sword-apprentice.png)](https://tryhackme.com/p/Tishues) | **Sword Apprentice** — SQLMap module | Automated SQL injection detection and data exfiltration |
 
 ---
 
-## TryHackMe Learning Experience
-I’ve completed a wide range of interactive labs and hands-on rooms on TryHackMe that have developed my practical skills in web application testing, infrastructure exploitation, and cybersecurity fundamentals.
+### 🧪 Related Labs
+Where badges were not issued, I’ve completed:
 
-### Web Application Exploitation
-Gained hands-on experience identifying and exploiting common vulnerabilities in modern web applications, following OWASP Top 10 principles and manual testing techniques.
+- **OWASP Juice Shop** – Full CTF covering all OWASP Top 10 
+- **Upload Vulnerabilities** – MIME/type bypasses, file injection  
+- **Pickle Rick** – Python deserialization exploit  
+- **Authentication Bypass** – Logic flaws, session tampering
+- **IDOR** – Broken access control via parameter manipulation 
+- **SQL Injection** – Manual & automated exploitation (sqlmap)
+- **Command Injection** – Remote code execution via input abuse 
+- **File Inclusion**  – Local and remote file inclusion attacks  
+- **SSRF** – Server-side request forgery 
+- **Cross-site Scripting (XSS)** – Payload crafting, session theft  
+- **Content Discovery** – Fuzzing for hidden files/directories
+- **Subdomain Enumeration** – DNS discovery of forgotten assets 
+- **Full Web App Walkthrough** – Mapping, testing, and exploitation
 
-**Key rooms:**
-- **Authentication Bypass** – Exploited broken login logic and weak session management.
-- **IDOR (Insecure Direct Object Reference)** – Accessed unauthorized data by manipulating URL parameters.
-- **SQL Injection** – Injected malicious queries to bypass login and extract data.
-- **Command Injection** – Executed OS-level commands via insecure input handling.
-- **File Inclusion** – Discovered and exploited LFI/RFI vulnerabilities to access sensitive files.
-- **Intro to SSRF** – Used internal server requests to access protected resources.
-- **Intro to Cross-site Scripting** – Injected scripts to hijack sessions and modify page behavior.
-- **Content Discovery** – Found hidden files and endpoints through forced browsing.
-- **Subdomain Enumeration** – Uncovered additional targets via DNS and subdomain fuzzing.
-- **Walking an Application** – Mapped out application logic, user flows, and input points.
-- **Burp Suite: The Basics** – Intercepted and modified HTTP requests to identify vulnerabilities.
-- **Putting it All Together** – Connected web components into a full exploitation workflow.
-- **How Websites Work** – Built foundational understanding of frontend/backend interaction.
+To support web exploitation, I’ve explored key infrastructure vulnerabilities.
 
-### Supporting Skills – Infrastructure & Exploitation
-Built complementary skills to support web testing by exploring Linux privilege escalation and Active Directory enumeration.
+- **Linux Privilege Escalation** – SUID, sudo, PATH abuse, writable files
+- **Active Directory: Basic Enumeration** – Users, groups, shares, LDAP basics
+- **Race Conditions** – Time-of-check/time-of-use exploitation in web environments
 
-**Key rooms:**
-- **Linux Privilege Escalation** – Identified misconfigurations (e.g., SUID, writable files, sudo abuse) to gain root access.
-- **Active Directory: Basic Enumeration** – Explored AD structures and queried users, groups, and shares.
-- **Race Conditions** – Demonstrated timing-based attacks to exploit concurrency vulnerabilities.
+### Writeups & Walkthroughs
+📂 Writeups available in the [`writeups/`](/writeups) folder. Examples:
 
-### Foundational Knowledge
-Strengthened understanding of networks, protocols, and system design to support more effective testing and report writing.
-
-**Key topics covered:**
-- OSI model, LAN design, TCP/IP fundamentals
-- Packets vs. frames and data transmission
-- NAT, port forwarding, and basic routing
-
-> I continue to grow my skills through hands-on labs, vulnerable machine walkthroughs, and real-world scenarios focused on offensive security.
+- **Linux Privilege Escalation** — [View writeup](writeups/linux-privilege-escalation/README.md)
+- **Example 2 (writeup)** — _Coming soon_
 
 ---
 
-## Walkthroughs & Writeups
-Real-world practice and analysis of vulnerable machines and challenges.
+## 🛠️ Tools & Skills
 
-- **Linux Privilege Escalation – TryHackMe**  
-  Explored misconfigurations like writable `/etc/passwd`, abused SUID binaries, and leveraged `sudo` misuses to escalate privileges on a Linux machine. 
-  
-  🔗 [Read the full writeup](writeups/linux-privilege-escalation/README.md)
+| Category | Tools & Skills |
+|---------|----------------|
+| Web/App Testing | Burp Suite, curl, Postman, HTTPie |
+| API Security | REST/JSON fuzzing, JWT, token manipulation |
+| Recon & Enumeration | nmap, nikto, gobuster, sublist3r |
+| Exploitation | sqlmap, XSStrike, manual payload crafting |
+| Scripting | Python (requests, regex, automation scripts) |
+| Reporting | Writeups, severity analysis, mitigation steps |
 
 ---
 
 ## Python Projects
-In addition to hands-on security labs, I’ve built small Python projects to develop my scripting skills — useful for automating recon, analyzing data, and testing attack surfaces.
-- **Static Site Generator**  
-  Converts markdown to HTML; useful for testing web server configs & static site vulnerabilities.  
-  [🔗 View Repo](https://github.com/Tishues/static_site_generator)
+Scripts to automate recon and testing tasks:
 
-- **Maze Solver**  
-  Navigates a text-based maze using pathfinding algorithms; demonstrates pathfinding and logic.  
-  [🔗 View Repo](https://github.com/Tishues/Maze-Solver)
-  
-- **BookBot**  
-  Analyzes book text for word frequencies and patterns; applies text parsing & frequency analysis.  
-  [🔗 View Repo](https://github.com/Tishues/bookbot)
-
-- **Asteroids Game**  
-  Python clone of the classic arcade game using Pygame; shows object-oriented design & real-time logic.  
-  [🔗 View Repo](https://github.com/Tishues/Asteroids)
-
----
-
-## Offensive Security Toolkit
-### Web App Testing Tools
-- **Burp Suite** – Used Proxy, Repeater, and Intruder to intercept and manipulate HTTP traffic
-- **Gobuster, FFUF** – For directory brute-forcing and content discovery
-- **Wfuzz** – Parameter fuzzing to uncover hidden functionalities
-- **Sublist3r, Dig** – For DNS and subdomain enumeration
-- **cURL, Postman** – Manual testing of HTTP requests and APIs
-- **Browser DevTools** – Analyzing frontend behavior and debugging requests
-### Exploitation & Enumeration
-- **Netcat** – For reverse shells and port listening
-- **LinPEAS, sudo, SUID techniques** – Linux privilege escalation
-- **Enum4linux** – Enumerating SMB shares and Active Directory
-- **Nmap** – Service discovery and vulnerability scanning
-- **Wireshark** – Packet inspection for deeper network analysis
-- **Python** – Custom scripts for automation, payload crafting, and recon; see my [Python Projects](#python-projects).
-### Environment & Workflow
-- **Linux CLI** – Daily driver; comfortable with shell navigation and scripting
-- **Git & GitHub** – Version control and project tracking
-- **VS Code** – Primary code editor for scripting and analysis
-
-## Skills
-### Web Application Penetration Testing
-(SQLi, XSS, IDOR, LFI/RFI, SSRF, Command Injection, Auth Bypass)
-- Manual vulnerability discovery (logic flaws, parameter tampering)
-- HTTP request/response analysis
-- Authentication and session management testing
-- Subdomain enumeration and virtual host discovery
-- Directory brute-forcing and file discovery
-- OWASP Top 10 familiarity through practical labs
-- API testing (parameter fuzzing, HTTP method abuse)
-- Linux privilege escalation (SUID, misconfigs, cron jobs)
-- Basic Active Directory enumeration (SMB shares, user/group recon)
-- Network fundamentals (TCP/IP, DNS, OSI model, routing)
-
-## Platforms & Labs
-- **TryHackMe:** Offensive & defensive security modules  
-- **OWASP Juice Shop:** Web app hacking lab (OWASP Top 10)  
-- **Boot.dev:** Python backend web development
-
+| Project                  | Description | Link |
+|--------------------------|-------------|------|
+| **Static Site Generator**| Converts markdown to HTML; useful for testing web server configs & static site vulnerabilities. |  [🔗 View Project](https://github.com/Tishues/static_site_generator) |
+| **Maze Solver**          | Navigates a text-based maze using pathfinding algorithms; demonstrates pathfinding and logic. | [🔗 View Project](https://github.com/Tishues/Maze-Solver) |
 ---
 
 ## Goals & Next Steps
-
-- [X] Create **writeups and walkthroughs** for vulnerable machines  
-- [ ] Build and share **custom pentesting tools** in Python  
-- [ ] Develop **automated recon and enumeration scripts**  
-- [ ] Contribute to CTFs or open-source security tools  
-- [ ] Earn an entry-level certification (e.g. CompTIA Security+, PNPT, or eJPT)  
+  
+- [x] Complete OWASP Top 10 and API Top 10 labs
+- [x] Build a Burp-based workflow for API fuzzing and testing
+- [ ] Publish writeups for API & Juice Shop rooms
+- [ ] Create and audit a sample vulnerable REST API
+- [ ] Pursue freelance pentesting opportunities
+- [ ] Build and release custom Python-based security tools
 
 ---
 
-## 📬 Contact Me
-Feel free to connect or reach out:
+### 📬 Contact Me
+I’m available for freelance penetration testing, API/web assessments, and small business security audits.
+
 - GitHub: [github.com/Tishues](https://github.com/Tishues)  
 - Email: [brad.cybersec@outlook.com](mailto:brad.cybersec@outlook.com)
+- Indeed: _Coming Soon_
+
+---
