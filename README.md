@@ -38,9 +38,8 @@ I’ve completed the **Web Fundamentals Path** on TryHackMe, covering both front
 ### 🧪 Related Labs
 Where badges were not issued, I’ve completed:
 
-- **OWASP Juice Shop** – Full CTF covering all OWASP Top 10 
 - **Upload Vulnerabilities** – MIME/type bypasses, file injection  
-- **Pickle Rick** – Python deserialization exploit  
+- **Exploit Vulnerabilities** – Discovery & exploitation of manual exploits
 - **Authentication Bypass** – Logic flaws, session tampering
 - **IDOR** – Broken access control via parameter manipulation 
 - **SQL Injection** – Manual & automated exploitation (sqlmap)
@@ -51,6 +50,10 @@ Where badges were not issued, I’ve completed:
 - **Content Discovery** – Fuzzing for hidden files/directories
 - **Subdomain Enumeration** – DNS discovery of forgotten assets 
 - **Full Web App Walkthrough** – Mapping, testing, and exploitation
+- **Web Application Security** – Understanding common web app security issues
+- **Nmap** – Live host discovery, basic & advanced port scans, post port scans
+- **Pickle Rick** – Python deserialization exploit  
+- **OWASP Juice Shop** – Full CTF covering all OWASP Top 10 
 
 To support web exploitation, I’ve explored key infrastructure vulnerabilities.
 
