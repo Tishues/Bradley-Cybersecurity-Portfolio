@@ -6,7 +6,7 @@ Hi, I’m Bradley — a junior **penetration tester** with a strong foundation i
 ---
 ## 🎖️ TryHackMe — Badges, Certificate & Hands-On Labs
 
-Hands-on skills proven through TryHackMe labs, modules, and a completed learning path. Click a badge to verify on TryHackMe or view the certificate.
+Hands-on skills proven through TryHackMe labs, modules, and a completed learning path. *Click view profile to verify on TryHackMe or view the certificate.*
 
 > 🔗 [View My TryHackMe Profile](https://tryhackme.com/p/Tishues)
 
@@ -23,15 +23,15 @@ I’ve completed the **Web Fundamentals Path** on TryHackMe, covering both front
 
 | Badge | What It Means | Value |
 |---|---|---|
-| [![Burp'ed](/images/badges/thm-burped.png)](https://tryhackme.com/p/Tishues) | **Burp'ed** — Completed all Burp Suite rooms | Manual web request manipulation, API fuzzing, auth/session testing |
-| [![Webbed](/images/badges/thm-webbed.png)](https://tryhackme.com/p/Tishues) | **Webbed** — Understanding how the web works | HTTP, headers, cookies, and backend/frontend behavior |
-| [![World Wide Web](/images/badges/thm-world-wide-web.png)](https://tryhackme.com/p/Tishues) | **World Wide Web** — Completed "How the Web Works" module | Foundation for protocol-level vulnerability analysis |
-| [![Intro to Web Hacking](/images/badges/thm-intro-web-hacking.png)](https://tryhackme.com/p/Tishues) | **Intro to Web Hacking** — Core web hacking concepts | OWASP-style vulnerabilities and discovery techniques |
-| [![Networking Nerd](/images/badges/thm-networking-nerd.png)](https://tryhackme.com/p/Tishues) | **Networking Nerd** — Completed Network Fundamentals | OSI model, TCP/IP, NAT, DNS — supports recon and traffic analysis |
-| [![Pentesting Principles](/images/badges/thm-pentesting-principles.png)](https://tryhackme.com/p/Tishues) | **Pentesting Principles** — Intro to Pentesting | Engagement flow: recon → exploit → report |
-| [![OWASP Top 10](/images/badges/thm-owasp-top-10.png)](https://tryhackme.com/p/Tishues) | **OWASP Top 10 (2021)** — Completed full module | XSS, SQLi, IDOR, RCE — real-world relevance for clients |
-| [![Software Security](/images/badges/thm-software-security.png)](https://tryhackme.com/p/Tishues) | **Software Security** — OWASP API Security Top 10 | BOLA, broken auth, excessive data exposure |
-| [![Sword Apprentice](/images/badges/thm-sword-apprentice.png)](https://tryhackme.com/p/Tishues) | **Sword Apprentice** — SQLMap module | Automated SQL injection detection and data exfiltration |
+| [![Burp'ed](/images/badges/thm-burped.png)](/images/badges/thm-burped.png) | **Burp'ed** — Completed all Burp Suite rooms | Manual web request manipulation, API fuzzing, auth/session testing |
+| [![Webbed](/images/badges/thm-webbed.png)](/images/badges/thm-webbed.png) | **Webbed** — Understanding how the web works | HTTP, headers, cookies, and backend/frontend behavior |
+| [![World Wide Web](/images/badges/thm-world-wide-web.png)](/images/badges/thm-world-wide-web.png) | **World Wide Web** — Completed "How the Web Works" module | Foundation for protocol-level vulnerability analysis |
+| [![Intro to Web Hacking](/images/badges/thm-intro-web-hacking.png)](/images/badges/thm-intro-web-hacking.png) | **Intro to Web Hacking** — Core web hacking concepts | OWASP-style vulnerabilities and discovery techniques |
+| [![Networking Nerd](/images/badges/thm-networking-nerd.png)](/images/badges/thm-networking-nerd.png) | **Networking Nerd** — Completed Network Fundamentals | OSI model, TCP/IP, NAT, DNS — supports recon and traffic analysis |
+| [![Pentesting Principles](/images/badges/thm-pentesting-principles.png)](/images/badges/thm-pentesting-principles.png) | **Pentesting Principles** — Intro to Pentesting | Engagement flow: recon → exploit → report |
+| [![OWASP Top 10](/images/badges/thm-owasp-top-10.png)](/images/badges/thm-owasp-top-10.png) | **OWASP Top 10 (2021)** — Completed full module | XSS, SQLi, IDOR, RCE — real-world relevance for clients |
+| [![Software Security](/images/badges/thm-software-security.png)](/images/badges/thm-software-security.png) | **Software Security** — OWASP API Security Top 10 | BOLA, broken auth, excessive data exposure |
+| [![Sword Apprentice](/images/badges/thm-sword-apprentice.png)](/images/badges/thm-sword-apprentice.png) | **Sword Apprentice** — SQLMap module | Automated SQL injection detection and data exfiltration |
 
 ---
 
@@ -89,6 +89,10 @@ Scripts to automate recon and testing tasks:
 |--------------------------|-------------|------|
 | **Static Site Generator**| Converts markdown to HTML; useful for testing web server configs & static site vulnerabilities. |  [🔗 View Project](https://github.com/Tishues/static_site_generator) |
 | **Maze Solver**          | Navigates a text-based maze using pathfinding algorithms; demonstrates pathfinding and logic. | [🔗 View Project](https://github.com/Tishues/Maze-Solver) |
+
+#### Boot.dev Python Certificates
+[🔗 View Certificates](/images/certificates/bootdev-certifications)
+
 ---
 
 ## Goals & Next Steps
