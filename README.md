@@ -91,7 +91,7 @@ Scripts to automate recon and testing tasks:
 | **Maze Solver**          | Navigates a text-based maze using pathfinding algorithms; demonstrates pathfinding and logic. | [🔗 View Project](https://github.com/Tishues/Maze-Solver) |
 
 #### Boot.dev Python Certificates
-[🔗 View Certificates](/images/certificates/bootdev-certifications)
+[🔗 View Certificates](/images/certificates/bootdev-certifications/README.md)
 
 ---
 
